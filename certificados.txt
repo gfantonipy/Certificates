@@ -1,0 +1,35 @@
+2021.-Data science y AI
+Estadistica 
+
+Harvard EDX https://www.edx.org/course/data-science-machine-learning
+Google https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-xoqIrhI5iBw2aOxFS0q9ZA&siteID=jU79Zysihs4-xoqIrhI5iBw2aOxFS0q9ZA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4
+Google https://cloud.google.com/certification/machine-learning-engineer
+
+IBM data warehouse https://www.ibm.com/certify/cert?id=C0006700
+IBM Database administrator https://www.ibm.com/certify/cert?id=08002109
+IBM Cognos https://www.ibm.com/certify/cert?id=47000303
+IBM big data https://www.ibm.com/certify/cert?id=50001501
+
+
+2022.- QUANTUM 
+
+Prerequisitos 
+Fisica cuantica. 
+Algebra lineal. 
+Python. 
+
+IBM https://www.ibm.com/certify/cert?id=C0010300  102$
+https://www.coursera.org/projects/getting-started-quantum-machine-learning
+https://www.coursera.org/learn/physical-basis-quantum-computing
+https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=1504
+
+Recursos
+Qiskit textbook https://qiskit.org/textbook/preface.html
+https://www.ibm.com/quantum-computing/
+Libros --> ? 
+
+Ampliación 
+Hardware in Quantum computer. 
+Escribir articulos. 
+
+2023.-MOVIL y WEB. 
