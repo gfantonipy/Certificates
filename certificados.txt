@@ -31,5 +31,6 @@ Libros --> ?
 Ampliación 
 Hardware in Quantum computer. 
 Escribir articulos. 
+Criptografia cuantica. 
 
 2023.-MOVIL y WEB. 
