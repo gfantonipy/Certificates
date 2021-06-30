@@ -10,11 +10,13 @@ IBM Database administrator https://www.ibm.com/certify/cert?id=08002109
 IBM Cognos https://www.ibm.com/certify/cert?id=47000303
 IBM big data https://www.ibm.com/certify/cert?id=50001501
 
+Certificarse en. 
+(Bases de datos, Visualización, Python,big data, Machine learning) 
 
 2022.- QUANTUM 
 
 Prerequisitos 
-Fisica cuantica. 
+Fisica cuantica. ->MIT, harvard ..
 Algebra lineal. 
 Python. 
 
