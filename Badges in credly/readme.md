@@ -1,3 +1,3 @@
   - [IBM AI engineering](https://www.credly.com/earner/earned/badge/c016a39b-00ea-448d-b83b-2ddb4d8cfe32)
-  - [IBM Data analyst](https://www.credly.com/earner/earned/badge/c016a39b-00ea-448d-b83b-2ddb4d8cfe32)
+  - [IBM Data analyst](https://www.credly.com/badges/4112c8d0-efd0-4afe-8420-e845be8a9730)
   - [IBM Data science](https://www.credly.com/earner/earned/badge/67c93209-0dd7-4d0a-a9ba-7418c4837a0a)
