@@ -9,7 +9,7 @@
 
   ![IBM Data analyst](IBM-DA.png)
   
-  - [IBM Data science](https://www.credly.com/badges/67c93209-0dd7-4d0a-a9ba-7418c4837a0a/public_url
+  - [IBM Data science](https://www.credly.com/badges/67c93209-0dd7-4d0a-a9ba-7418c4837a0a/public_url)
 
 
   ![IBM Data science](IBM-DS.png)
