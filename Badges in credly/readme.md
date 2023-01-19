@@ -23,11 +23,11 @@
 
 -[SAP Certified Development especialist - ABAP on HANA 2.0 - E_HANAAW_17](https://www.credly.com/badges/58194885-d073-495b-916e-fa3d5c017961/public_url)
 
-![SAP ABAP on HANA 2.0](E_HANAAW_17.png)
+![SAP ABAP on HANA 2.0](E_HANAAW_17.PNG)
 
 -[SAP Certified Development especialist - ABAP on HANA 2.0 - E_HANAAW_18](https://www.credly.com/badges/11119d6c-2afc-4f48-9488-a9ffd3fc86eb/public_url)
 
-![SAP ABAP on HANA 2.0](E_HANAAW_18.png)
+![SAP ABAP on HANA 2.0](E_HANAAW_18.PNG)
 
 
 
